@@ -1,0 +1,44 @@
+.contact-jumbotron {
+  background-image: url("../../assets/img/background/background.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#youtube-btn {
+  border-color: #f83f37;
+  color: #f83f37;
+}
+#youtube-btn:hover {
+  background-color: #f83f37;
+  color: #ffffff;
+}
+
+
+
+input, textarea {
+  display: block;
+  /* width: 50%; */
+  padding: 15px;
+  border-radius: 4px;
+  border: none;
+  margin-bottom: 10px;
+  
+  color:black;
+ 
+
+ 
+}
+
+
+button {
+  display: block;
+  /* width: 30%; */
+  background: #fff;
+  border-radius: 4px;
+  padding: 5px 10px;
+  border: none;
+ 
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+ 
+}
